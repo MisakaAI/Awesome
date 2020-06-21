@@ -1,13 +1,13 @@
 # Download - 下载
 
+- [Free Download Manager](https://www.freedownloadmanager.org/)
+强大、易用且完全免费的多点续传下载及管理的开源软件
 - [Aria2](http://aria2.github.io/)
 开源、轻量级的多协议命令行下载工具
 - [AriaNg](https://github.com/mayswind/AriaNg)
 Aria2 的 Web 管理面板
 - [Aria2 WebUI](https://github.com/ziahamza/webui-aria2)
 Aria2 的 Web 管理面板
-- [Free Download Manager](https://www.freedownloadmanager.org/)
-强大、易用且完全免费的多点续传下载及管理的开源软件
 - [uGet](https://ugetdm.com/)
 基于GTK+编写的自由和开放源码的下载管理器
 - [qBittorrent](https://www.qbittorrent.org/)

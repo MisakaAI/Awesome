@@ -18,10 +18,10 @@
 
 ### 视频播放器
 
-- [VLC media player](https://www.videolan.org/)
-VLC 是一款自由、开源的跨平台多媒体播放器及框架
 - [PotPlayer](https://potplayer.daum.net/)
 拥有强大的内置解码器
+- [VLC media player](https://www.videolan.org/)
+VLC 是一款自由、开源的跨平台多媒体播放器及框架
 - [SMplayer](http://www.smplayer.info)
 SMPlayer 是 MPlayer 的一个图形化前端，可以支持大部分的视频和音频文件
 - [MPV](https://mpv.io/)

@@ -81,8 +81,6 @@
 - [win32 disk imager](https://sourceforge.net/projects/win32diskimager/)
 - ~~[Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)~~
 
-
 ## [macOS](https://www.apple.com/macos)
 
 ## [openBSD](http://www.openbsd.org/)
-

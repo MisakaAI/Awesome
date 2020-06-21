@@ -3,15 +3,16 @@
 ## 图片浏览
 
 - [Eagle](https://cn.eagle.cool/)
-正版图片设计收藏素材整理
-- [qimgv](https://github.com/easymodo/qimgv)
-支持视频预览的开源图片浏览器
+图片设计收藏素材整理
 - [ImageGlass](https://imageglass.org/)
 开源轻量级看图工具
+- [qimgv](https://github.com/easymodo/qimgv)
+支持视频预览的开源图片浏览器
 - [XnView MP](https://www.xnview.com/en/xnviewmp/)
 照片查看器
 
 ## 图像处理
+
 - [Krita](https://krita.org/zh/)
 开源数字绘画和动画创作软件
 - [Gimp](https://www.gimp.org/)

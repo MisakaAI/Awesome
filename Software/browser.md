@@ -1,4 +1,4 @@
-## Browser - 浏览器
+# Browser - 浏览器
 
 - [Google Chrome](https://www.google.cn/chrome/)
 Google Chrome 是一款由 Google 公司开发的网页浏览器

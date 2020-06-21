@@ -49,8 +49,6 @@
 > **[Vmware Workstation Pro](https://www.vmware.com/cn/products/workstation-pro.html)**
 > ¥ 1,709.00
 
-
-
 ## 加密解密
 
 - [Cloaker](https://github.com/spieglt/Cloaker)
@@ -80,6 +78,10 @@
 - [ShareX](https://getsharex.com/)
 - [SETUNA2](https://github.com/tylearymf/SETUNA2)
 截图并订在屏幕上
+
+## 思维导图
+
+- [XMind](https://www.xmind.cn/)
 
 ## 系统增强
 
@@ -113,6 +115,7 @@
 > ¥ 18.00
 
 ## 其他
+
 - [Print.Test.Page.OK](https://www.softwareok.com/?Download=Print.Test.Page.OK)
 更专业的打印测试页工具
 - [微信客户端数据自动删除工具](https://github.com/blackboxo/CleanMyWechat)
