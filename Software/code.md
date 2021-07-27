@@ -54,3 +54,9 @@ Cron表达式生成器
 开发工具箱
 - [Darkmode.Js](https://darkmodejs.learn.uno/)
 在几秒钟内将暗模式/夜间模式添加到您的网站
+
+## Other
+
+- [Electron](https://www.electronjs.org/)
+- [PWA2APK](https://appmaker.xyz/pwa-to-apk/)
+将 PWA 网页转换为 Android 应用

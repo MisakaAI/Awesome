@@ -124,3 +124,7 @@
 通过快捷键快速切换程序
 - [TeamViewer](https://www.teamviewer.com/)
 远程控制
+- Wifi Analyzer
+wifi分析Android
+- WifiInfoView
+wifi分析win

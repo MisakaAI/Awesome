@@ -50,8 +50,6 @@
 开源、免费、快速、安全的文件加密解密工具
 - [Glide](https://www.glideapps.com/)
 快速创建自己的应用
-- [PWA2APK](https://appmaker.xyz/pwa-to-apk/)
-将 PWA 网页转换为 Android 应用
 - [域名证书监测](https://certificatemonitor.org/)
 定期检查将要过期的 SSL/TLS 域名证书
 - [在线工具](https://tool.lu/)

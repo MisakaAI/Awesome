@@ -72,8 +72,6 @@ SMPlayer 是 MPlayer 的一个图形化前端，可以支持大部分的视频�
 开源的跨平台全能三维动画制作软件
 - [DaVinci Resolve 16](http://www.blackmagicdesign.com/cn/products/davinciresolve/)
 DaVinci Resolve 16是一款在同一个软件工具中将专业8K剪辑、调色、视觉特效和音频后期制作融于一身的解决方案！
-- [Aegisub](http://www.aegisub.org/)
-用于创建和修改字幕
 - [Kdenlive](https://kdenlive.org/)
 基于MLT框架、KDE和Qt的自由开源的非线性视频编辑器
 - [OpenShot Video Editor](https://www.openshot.org/)
@@ -131,5 +129,14 @@ Fusion是一款先进的合成软件，它被广泛应用于视觉特效、广�
 
 ## 字幕
 
+- [Aegisub](http://www.aegisub.org/)
+用于创建和修改字幕
 - [Subtitles-View](https://github.com/fordes123/Subtitles-View)
  基于讯飞语音转写，为视频自动生成字幕
+
+## 其他工具
+
+- [HamMultiPlayer](http://hammultiplayer.org/)
+「一屏」看遍硬盘所有片
+- [LosslessCut](https://github.com/mifi/lossless-cut)
+是一款简单易用的跨平台工具，用于无损修剪、剪切视频和音频文件
