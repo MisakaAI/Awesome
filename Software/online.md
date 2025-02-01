@@ -6,12 +6,12 @@
 跨平台文件传输
 - [Blaze](https://github.com/blenderskool/blaze)
 基于 WebSockets 和 WebRTC 的开源在线文件传输工具
-- [Firefox Send](https://send.firefox.com/)
-简单私密的文件分享服务
-- [皮皮直连](https://www.ppzhilian.com/)
+- [PP直连](https://www.ppzhilian.com/)
 电脑/手机互连、文件传送、云剪贴板、屏幕共享、可视化沟通
 - ~~[奶牛快传](https://cowtransfer.com/)~~
 一款无比安全、省时高效的文件传输及存储服务
+- ~~[Firefox Send](https://send.firefox.com/)~~
+简单私密的文件分享服务
 - ~~[AirPortal](https://airportal.cn/)~~
 临时文件分享
 
@@ -32,7 +32,7 @@
 - ~~[小画桌](https://xiaohuazhuo.com/)~~
 在线协作白板，团队效率工具
 - ~~[比幕鱼](https://bimuyu.tech/)~~
-简单易用的在线白板  
+简单易用的在线白板
 
 ## 其他
 
@@ -41,9 +41,7 @@
 - [Size.link](https://size.link/)
 用 AR 创建虚拟盒子，可以在购物前查看产品尺寸实际大小
 - [File Destructor](http://www.xnet.se/fd/)
-肆意生成任意大小的错误文档  
-- [Unlock Music](https://tool.ixarea.com/music/)
-移除已购音乐的加密保护
+肆意生成任意大小的错误文档
 - [UFO Test](https://testufo.com/)
 测试显示器/手机屏幕刷新率
 - [Hat.sh](https://hat.sh/)
