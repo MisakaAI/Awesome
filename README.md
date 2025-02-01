@@ -1,7 +1,7 @@
-# Awesome 一些我觉得很棒的东西
-
+# Awesome
 
 - [软件篇](Software/README.md)
+- [代码篇](CODE/README.md)
 - [设计篇](Design/README.md)
 - [字体篇](Fonts.md)
 - [游戏篇](Game/README.md)

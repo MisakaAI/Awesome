@@ -4,22 +4,25 @@
 按游戏平台进行分类。
 
 ## Nintendo
+
 - [GBA](GBA.md)
 - [NDS](NDS.md)
 - [3DS](3DS.md)
 - [Switch](Switch.md)
 
 ## Sony
+
 - [PSP](PSP.md)
-- [PS4](PS4.md)
-- [PS5](PS5.md)
 
 ## Xbox
+
 - [Xbox](Xbox.md)
 
 ## PC
+
 - [Steam](Steam.md)
 - [PC](PC.md)
 
-# Other
+## Other
+
 - [Other](Other.md)

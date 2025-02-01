@@ -1,5 +1,6 @@
 # Bilibili - 哔哩哔哩
 
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [哔哩下载姬](https://github.com/FlySelfLog/downkyi)
 - [哔哩下载姬（跨平台版）](https://github.com/yaobiao131/downkyicore)
 
