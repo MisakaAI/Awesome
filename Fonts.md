@@ -118,6 +118,9 @@
 - 钟齐字库
   - [钟齐志莽行书](https://github.com/m4rc1e/zhimangxing)
   - [钟齐流江毛草](https://github.com/m4rc1e/liujianmaocao)
+- 字体圈
+  - [字体圈欣意冠黑体](https://mp.weixin.qq.com/s/-SOzukV7fINFW0a36zVihQ)
+  - [字体圈欣意吉祥宋](https://mp.weixin.qq.com/s/WCwaKtfAiPD8uwSBGU4dNg)
 - [包图小白体](https://act.ibaotu.com/activity/1.html)
 - [得意黑](https://github.com/atelier-anchor/smiley-sans)
 - [凤凰点阵体](https://timothyqiu.itch.io/vonwaon-bitmap)
@@ -133,7 +136,6 @@
 - [正風毛筆](https://github.com/max32002/masafont)
 - [莫大毛筆體](https://github.com/max32002/bakudaifont)
 - [卓健橄榄简体](https://www.zcool.com.cn/work/ZNDA2MzA3ODQ=.html)
-- [字体圈欣意冠黑体](https://mp.weixin.qq.com/s/-SOzukV7fINFW0a36zVihQ)
 - [字体视界法棍体](https://www.17font.com/fontDay/OpenSource)
 
 ### 不常用
