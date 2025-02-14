@@ -5,6 +5,7 @@
 - [mingw-w64](https://www.mingw-w64.org/) C/C++
 - [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) C#
 - [Python3](https://www.python.org/downloads/)
+  - [PyTorch](https://pytorch.org/get-started/locally/)
 - [Node.js](https://nodejs.org/zh-cn/download)
 
 ## 编辑器

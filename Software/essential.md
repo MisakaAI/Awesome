@@ -1,5 +1,12 @@
 # 装机必备
 
+## 驱动
+
+- [华硕 天选4](https://www.asus.com.cn/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a15-2023/helpdesk_download/?model2Name=FA507XV)
+- [NVIDIA](https://www.nvidia.cn/Download/index.aspx?lang=cn)
+  - [NVIDIA App](https://www.nvidia.cn/software/nvidia-app/)
+  - [CUDA](https://developer.nvidia.com/cuda-downloads)
+
 ## 浏览器
 
 - [Chrome CN](https://www.google.cn/chrome/)
@@ -7,7 +14,16 @@
 
 ## 办公
 
-- [Office](https://learn.microsoft.com/zh-cn/office/volume-license-activation/activate-office-by-using-kms)
+- [Office LTSC 2024](https://learn.microsoft.com/zh-cn/office/ltsc/2024/overview)
+  - [Office 自定义工具](https://config.office.com/deploymentsettings)
+  - [Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
+    - 下载 `setup.exe /download downloadconfig.xml`
+    - 安装 `setup.exe /configure installconfig.xml`
+  - [KMS](https://learn.microsoft.com/zh-cn/office/volume-license-activation/activate-office-by-using-kms)
+    - 切换到安装目录 `cd "C:\Program Files\Microsoft Office\Office16"`
+    - 安装批量许可证 `cscript ospp.vbs /inpkey:XJ2XN-FW8RK-P4HMP-DKDBV-GCVGB` [Office LTSC Professional Plus 2024](https://docs.microsoft.com/en-us/deployoffice/vlactivation/gvlks)
+    - 设置KMS `cscript ospp.vbs /sethst:<KMS服务器地址>` ~~kms.03k.org~~
+    - 激活 `cscript ospp.vbs /act`
 - [LibreOffice](https://zh-cn.libreoffice.org/)
 
 ## 思维导图
