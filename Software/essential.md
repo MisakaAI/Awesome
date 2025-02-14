@@ -16,7 +16,10 @@
 
 ## 电子书
 
-- [Calibre](https://calibre-ebook.com/zh_CN/download)
+- [Caliber](https://calibre-ebook.com/zh_CN/download)
+一站式电子书解决方案
+  - [豆瓣元数据](https://github.com/fugary/calibre-douban)
+  - [DeDRM](https://github.com/apprenticeharper/DeDRM_tools)
 
 ## 影音
 

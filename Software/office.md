@@ -20,10 +20,6 @@
 
 - [LibreOffice](https://zh-cn.libreoffice.org/)
 自由免费的办公套件
-- [Caliber](https://calibre-ebook.com/zh_CN/download)
-一站式电子书解决方案
-  - [豆瓣元数据](https://github.com/fugary/calibre-douban)
-  - [DeDRM](https://github.com/apprenticeharper/DeDRM_tools)
 - [Adobe Acrobat Reader DC](http://get.adobe.com/cn/reader/otherversions/)
 可靠查看、打印和注释 PDF 文档的全球化免费标准
 - [WPS Office 2019 For Linux](https://www.wps.cn/product/wpslinux)
