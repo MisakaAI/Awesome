@@ -120,6 +120,8 @@
 ## 直播
 
 - [OBS](https://obsproject.com/)
+  - [obs-draw](https://github.com/exeldro/obs-draw) 绘图
+  - [obs-loudness-dock](https://github.com/norihiro/obs-loudness-dock) 响度计
   - [obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) 多路推流
   - [obs-composite-blur](https://github.com/FiniteSingularity/obs-composite-blur) 模糊
 - [RECentral 4](https://www.avermedia.com/tw/product-detail/RECentral_4#download)
