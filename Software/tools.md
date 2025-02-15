@@ -3,6 +3,7 @@
 ## 驱动
 
 - [Logitech Capture](https://www.logitech.com/zh-cn/software/capture.html) 罗技网络摄像头
+- [PowerChute Personal Edition](https://www.apc.com/us/en/download/doc-group-type/120246296111-Software+&+Firmware/?sortByField=Popularity&keyword=PowerChute+Personal+Edition) 施耐德电源管理
 
 ## 色彩管理
 
