@@ -45,6 +45,9 @@
 - [Foobar2000 汉化版](https://www.cnblogs.com/asionwu)
 - [网易云音乐](http://music.163.com/)
 - [QQ音乐](https://y.qq.com/)
+- [unlock-music](https://github.com/ix64/unlock-music)
+  - [gitea](https://git.unlock-music.dev/um/)
+  - [demo](https://demo.unlock-music.dev/)
 
 ## 下载
 
