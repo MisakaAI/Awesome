@@ -1,12 +1,13 @@
 # Video&Sound - 音乐、视频播放
 
-- [PotPlayer](https://potplayer.daum.net/)
+- [PotPlayer](https://potplayer.tv/?lang=zh_CN)
 - [VLC media player](https://www.videolan.org/)
 - [Plex](https://www.plex.tv/media-server-downloads/)
 - [网易云音乐](http://music.163.com/)
 - [QQ音乐](https://y.qq.com/)
-- [Foobar2000](http://www.foobar2000.org/)
-  - [Foobar2000 汉化版](https://www.cnblogs.com/asionwu)
+- [foobar2000](https://www.foobar2000.org/download)
+  - [汉化版](https://www.cnblogs.com/asionwu)
+  - [ESLyric](https://github.com/ESLyric/release/releases) 歌词插件
   免费音频播放器，具备高度定制化能力
 
 ## 音乐播放

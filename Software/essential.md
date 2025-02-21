@@ -39,10 +39,12 @@
 
 ## 影音
 
-- [PotPlayer](https://potplayer.daum.net/)
+- [PotPlayer](https://potplayer.tv/?lang=zh_CN)
 - [VLC media player](https://www.videolan.org/)
 - [Plex](https://www.plex.tv/media-server-downloads/)
-- [Foobar2000 汉化版](https://www.cnblogs.com/asionwu)
+- [foobar2000](https://www.foobar2000.org/download)
+  - [汉化版](https://www.cnblogs.com/asionwu)
+  - [ESLyric](https://github.com/ESLyric/release/releases) 歌词插件
 - [网易云音乐](http://music.163.com/)
 - [QQ音乐](https://y.qq.com/)
 - [unlock-music](https://github.com/ix64/unlock-music)
