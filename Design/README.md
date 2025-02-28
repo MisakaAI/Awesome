@@ -17,6 +17,11 @@
 - [图片](picture.md)
 - [矢量图](vector.md)
 
+## 设计资源
+
+- [影视飓风](https://www.ysjf.com/material)
+- [Apple 设计资源](https://developer.apple.com/cn/design/resources/)
+
 ### 知识共享
 
 > CC0 全称 Creative Commons Zero，意即「无版权」。
