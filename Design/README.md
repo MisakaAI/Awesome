@@ -20,6 +20,7 @@
 ## 设计资源
 
 - [影视飓风](https://www.ysjf.com/material)
+  - [字幕标准](subtitle.md)
 - [Apple 设计资源](https://developer.apple.com/cn/design/resources/)
 
 ### 知识共享
