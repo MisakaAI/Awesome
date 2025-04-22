@@ -36,6 +36,7 @@
 - infuse
 - [VLC](https://www.videolan.org/vlc/download-macosx.html)
 - [foobar2000](https://www.foobar2000.org/mac)
+- [IINA](https://iina.io/)
 
 ## 云同步
 
