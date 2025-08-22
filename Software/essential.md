@@ -9,8 +9,8 @@
 
 ## 浏览器
 
-- [Chrome CN](https://www.google.cn/chrome/)
-- [Firefox 中国](http://www.firefox.com.cn/)
+- [Chrome CN](https://www.google.cn/chrome/?standalone=1)
+- [Firefox 中国](https://www.firefox.com/zh-CN/download/all/)
 
 ## 办公
 
@@ -137,6 +137,6 @@
 ## 虚拟机
 
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-- [VMware](https://support.broadcom.com/group/ecx/downloads)
-  - [VMware Workstation Pro](https://softwareupdate.vmware.com/cds/vmw-desktop/ws/)
-  - [VMware Fusion for Mac](https://softwareupdate.vmware.com/cds/vmw-desktop/fusion/)
+- VMware
+  - [VMware Workstation Pro](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
+  - [VMware Fusion](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Fusion&freeDownloads=true)
